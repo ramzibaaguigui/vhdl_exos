@@ -1,0 +1,7 @@
+v 3
+file . ".\ex14_01_adder_tb.vhd" "20240402215032.000" "20240402235041.871":
+  entity adder_tb at 1( 0) + 0 on 17;
+  architecture sim of adder_tb at 7( 110) + 0 on 18;
+file . ".\ex14_01_adder.vhd" "20240402214052.000" "20240402234938.902":
+  entity adder_unit at 1( 0) + 0 on 15;
+  architecture arch of adder_unit at 10( 179) + 0 on 16;

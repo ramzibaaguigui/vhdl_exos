@@ -1,0 +1,12 @@
+This exercise requires extensive coding,
+This is why we have specified an entire folder for the different modules
+
+
+The exercise tells us that the operand width is 8 bits
+In fact, the multiplier needs two bit operands
+To make the things simple, let turn the multiplier into a unit that calculates 
+the operand raised to the power of 2
+a_in and b_in will receive the same value
+
+Note that the goal of this exercise is the communication protocol that is established
+between the different units

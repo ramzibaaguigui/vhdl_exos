@@ -1,0 +1,12 @@
+Exercise 16.13:
+
+Modify the push-and-pull system of Section 16.8.1 using the two-phase handshaking
+protocol (additional data lines are needed). Derive the revised block diagram and VHDL
+code.
+
+modify the system, make it a two-phase handshaking protocol 
+
+We will design a system that can do push-or-pull between the talker and the listener
+with a two-phase sync req-ack protocol
+
+1) we start with the definition of the interfaces that are needed to connected the two components

@@ -1,0 +1,10 @@
+Exercise 16.12:
+the goal of this exercise is use an 8-bit bus instead of the 16-bit bus that has 
+been previously used, 
+
+We will use the same methodology that has been used before in the four-phase handshaking protocol
+We will define the following flow:
+    - there is something to note here
+    - 
+To enhance the learning experience, we will retry everything from scratch, 
+except for the multipler which has been constructed previously

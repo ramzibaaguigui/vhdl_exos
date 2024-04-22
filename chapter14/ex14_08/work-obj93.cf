@@ -1,0 +1,4 @@
+v 3
+file . ".\ex14_08.vhd" "20240403035806.000" "20240403055808.297":
+  entity reduced_xor at 8( 225) + 0 on 11;
+  architecture array_arch of reduced_xor at 17( 403) + 0 on 12;

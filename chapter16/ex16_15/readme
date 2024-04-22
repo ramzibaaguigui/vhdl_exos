@@ -1,0 +1,13 @@
+
+Exercise 16.15:
+Consider the one-phase push operation in Section 16.8.3. Derive VHDL code for
+the sending and receiving subsystems with the following clock rates.
+(a) = 10 MHz and freceive = 10 MHz
+(b) fsend = 10 MHz and freceive = 40 MHz
+(c) fsend = 10 MHz and freceive = 2.5 MHz
+
+this type of questions requires a rigorous information, 
+if there is one piece of information to get from this, it would be the fact that we understand the principle 
+sometimes, especially in the field of digital design, 
+some things need a pencil and a sheet of paper, or simply a white board to get thigns done
+as fast as possible

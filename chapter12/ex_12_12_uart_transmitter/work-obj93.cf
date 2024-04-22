@@ -1,0 +1,7 @@
+v 3
+file . ".\ex_12_12_uart_transmitter_tb.vhd" "20240402222214.000" "20240403002221.051":
+  entity uart_transmitter_tb at 1( 0) + 0 on 21;
+  architecture tb_arch of uart_transmitter_tb at 8( 133) + 0 on 22;
+file . ".\ex_12_12_uart_transmitter.vhd" "20240402114454.000" "20240403002219.885":
+  entity uart_transmitter at 1( 0) + 0 on 19;
+  architecture behavioral of uart_transmitter at 15( 314) + 0 on 20;

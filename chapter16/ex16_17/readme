@@ -1,0 +1,18 @@
+16.17 Consider the FIFO buffer of Section 16.9.1, and let the clock periods of the writing
+and reading subsystems be Tw, and Tr, respectively. Assume that the sending subsystem
+has 10 words to pass through the FIFO buffer. Determine the total time to complete the
+operation with the following buffer sizes:
+(a) One word.
+(b) two words.
+(c) Four words.
+(d) Eight words.
+(e) 16 words
+
+
+----------------------------------
+We will write the code from the book
+try to understand its timing and finally 
+make some conclusions concerning the time 
+it takes to transfer 10 words in the different
+cases listed above
+----------------------------------

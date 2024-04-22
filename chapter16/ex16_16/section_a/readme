@@ -1,0 +1,9 @@
+16.16 Consider the one-phase pull operation in Section 16.8.3. Derive VHDL code for
+the sending and receiving subsystems with the following clock rates.
+(a) fsend = 10 MHz and freceive = 10 MHz
+
+one phase pull operation
+
+The design is normally accurate 
+you should consider simulating the entire staff before 
+publishing

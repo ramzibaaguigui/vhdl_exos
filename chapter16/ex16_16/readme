@@ -1,0 +1,14 @@
+16.16 Consider the one-phase pull operation in Section 16.8.3. Derive VHDL code for
+the sending and receiving subsystems with the following clock rates.
+
+(b) fsend = 10 MHz and freceive = 2.5 MHz
+
+the sender will enable the req for twenty cycles, 
+recover the result from the data bus at the end of 
+the 19th cycle (recalculations may be required)
+
+for the received, once the req_in is asserted, 
+wait one cycle to go to the idle state in which
+it can receive subsequent requrests
+
+the solution will build on the previous one, with some little changes

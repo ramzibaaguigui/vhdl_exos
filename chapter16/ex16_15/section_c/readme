@@ -1,0 +1,10 @@
+
+The talker and the listener both have the same frequencies
+we will do a simple timing analysis for the time required to 
+receive the req signal and recover the data to the internal registers
+
+(a)   sender frequency = 10  MHz
+    receiver frequency = 2.5 MHz
+
+the sender is faster than the receiver
+the sender has to wait for some more states to make sure that the receiver received the data

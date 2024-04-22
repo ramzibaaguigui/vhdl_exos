@@ -1,0 +1,7 @@
+v 3
+file . "design_sram_ctrl_tb.vhd" "20240402125628.000" "20240402150120.427":
+  entity sram_ctrl_tb at 1( 0) + 0 on 21;
+  architecture testbench of sram_ctrl_tb at 7( 92) + 0 on 22;
+file . "design_sram_ctrl.vhd" "20240402124954.000" "20240402150115.110":
+  entity sram_ctrl at 1( 0) + 0 on 19;
+  architecture archi of sram_ctrl at 20( 649) + 0 on 20;

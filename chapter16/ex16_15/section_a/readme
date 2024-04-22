@@ -1,0 +1,11 @@
+
+The talker and the listener both have the same frequencies
+we will do a simple timing analysis for the time required to 
+receive the req signal and recover the data to the internal registers
+
+(a)   sender frequency = 10 MHz
+    receiver frequency = 10 MHz
+
+we can roughly say that two clock cycles are required for the syncronization of the req signal 
+another clock cycle is needed to recover the data from the data line
+-- the design will target the push operation only
